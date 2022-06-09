@@ -21,7 +21,7 @@ I still need to improve my codes but I was happy with the result for now !
  <li>API:https://kitsu.io/api/edge/</li>
  
   
- <h3> ℹ️ How to run<h3> 
+ <h3> ℹ️ How to run:<h3> 
 Clone this directory and :
 
 ### `npm start`
