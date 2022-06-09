@@ -1,7 +1,9 @@
 # Anime List 
 ⚠️Developing
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Landing page that search for animes that you put the name
+
 
 ## Available Scripts
 
