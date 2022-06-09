@@ -1,0 +1,29 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+  }
+  
+  .animes-list {
+    display: grid;
+    grid-template-columns: repeat(
+      auto-fit,
+      minmax(200px, 1fr)
+    );
+    list-style: none;
+    grid-gap: 1.5rem;
+
+  }
+  
+  .animes-list img {
+    max-width: 100%;
+  }
+  body {
+    background-image: url("https://i.pinimg.com/originals/99/4e/53/994e5335b9e54a2bdee1077049c7d653.jpg");
+    background-size: 100%;
+  }
+  h1{
+      color: white;
+  }
+
+ 
